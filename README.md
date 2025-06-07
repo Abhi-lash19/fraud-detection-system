@@ -62,7 +62,7 @@ fraud-detection-system/
 
 ```bash
 # Clone the repo
-git clone https://github.com/YOUR_USERNAME/fraud-detection-system.git
+git clone https://github.com/Abhi-lash19/fraud-detection-system.git
 cd fraud-detection-system
 
 # Create Python virtual environment for ML dev
